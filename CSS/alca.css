@@ -1,0 +1,114 @@
+/* 
+.sixtyfour-convergence-<uniquifier> {
+  font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+} */
+
+/* // <uniquifier>: Use a unique and descriptive class name
+
+.honk-<uniquifier> {
+  font-family: "Honk", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+} */
+
+body {
+  background-color: orangered;
+}
+footer p {
+  font-family: "Nabla", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+ul li {
+  list-style-image: url(../icons/tinyblush.gif);
+  width: 250px;
+  color: rgb(251, 86, 7);
+  text-decoration: underline;
+  font-family: "Nabla", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.gold {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  align-content: stretch;
+}
+#lizards {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  align-content: stretch;
+}
+.stained {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  align-content: stretch;
+}
+footer {
+  color: rgb(96, 108, 56);
+}
+main {
+  color: rgb(40, 54, 24);
+}
+header {
+  text-align: center;
+}
+nav {
+  margin: 0 190px;
+  text-decoration: none;
+}
+h1 {
+  color: rgb(251, 86, 7);
+  font-family: "Honk", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+  color: rgb(49, 87, 44);
+  font-family: "Honk", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+p {
+  color: rgb(49, 87, 44);
+  font-family: "Glass Antiqua", cursive;
+  font-weight: 100;
+  font-style: normal;
+}
+figcaption {
+  font-family: "Nabla", serif;
+  font-optical-sizing: auto;
+  background-color: rgb(1, 162, 63);
+}
+#split {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  align-content: stretch;
+}

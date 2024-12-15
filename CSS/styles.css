@@ -1,0 +1,95 @@
+/* 606c38 */
+/* 283618 */
+/* ffafcc */
+/* fb5607 */
+/* ff006e */
+/* 31572c */
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+/* ===========================================FONTS=================================== */
+
+.glass-antiqua-regular {
+  font-family: "Glass Antiqua", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nabla {
+  font-family: "Nabla", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "EDPT" 100, "EHLT" 12;
+}
+
+footer {
+  color: rgb(251, 86, 7);
+}
+footer p {
+  color: rgb(255, 175, 204);
+}
+main {
+  color: rgb(40, 54, 24);
+}
+header {
+  color: rgb(255, 175, 204);
+  background-color: rgb(40, 54, 24);
+  text-align: center;
+}
+h1 {
+  color: rgb(251, 86, 7);
+  font-family: "Nabla", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+  color: rgb(255, 0, 110);
+}
+p {
+  color: rgb(40, 54, 24);
+}
+ul li {
+  list-style-image: url(../icons/flower.png);
+  width: 250px;
+  color: rgb(251, 86, 7);
+  text-decoration: underline;
+  font-family: "Nabla", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+ul li:hover {
+  color: rgb(255, 175, 204);
+}
+a {
+  color: rgb(251, 86, 7);
+}
+a:hover {
+  color: rgb(255, 0, 110);
+}
+body {
+  background-image: url(../images/lawrence-kayku-leaves.jpg);
+  background-repeat: no-repeat;
+}
+footer p {
+  font-family: "Nabla", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+#oranges {
+  background-color: rgb(255, 0, 110);
+  background-size: 500px;
+  margin: 0 180px;
+}
+h3 {
+  text-align: center;
+  font-family: "Glass Antiqua", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: large;
+  background-color: rgb(251, 86, 7);
+  background-size: 0 210px;
+}

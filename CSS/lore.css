@@ -1,0 +1,115 @@
+/* 606c38 */
+/* 283618 */
+/* ffafcc */
+/* fb5607 */
+/* ff006e */
+/* 31572c */
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+/* Photo by <a href="https://unsplash.com/@anniespratt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Annie Spratt</a> on <a href="https://unsplash.com/photos/top-view-of-green-succulent-plants-8mqOw4DBBSg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> */
+footer {
+  color: rgb(96, 108, 56);
+}
+main {
+  color: rgb(40, 54, 24);
+}
+header {
+  color: rgb(255, 175, 204);
+  text-align: center;
+}
+nav {
+  margin: 0 190px;
+  text-align: center;
+}
+h1 {
+  color: rgb(251, 86, 7);
+  font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+  color: rgb(255, 175, 204);
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+p {
+  color: rgb(49, 87, 44);
+}
+ul li {
+  list-style-image: url(../icons/tinyhellokitty.gif);
+  width: 250px;
+  color: rgb(251, 86, 7);
+  font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+ul li:hover {
+  color: rgb(255, 175, 204);
+}
+a {
+  color: rgb(251, 86, 7);
+}
+a:hover {
+  color: rgb(255, 0, 110);
+}
+body {
+  background-image: url(../images/markus-spiske-iar-techie.jpg);
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+main {
+  background-color: rgb(251, 86, 7);
+}
+footer p {
+  font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* <a href="https://www.flaticon.com/free-icons/future" title="Future icons">Future icons created by Superarticons - Flaticon</a> */
+.lore {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+#MOTHA {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  color: rgb(49, 87, 44);
+  text-decoration: none;
+  background-color: rgb(255, 175, 204);
+}
+#MOTHA:hover {
+  font-family: "Honk", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* 
+.sixtyfour-convergence-<uniquifier> {
+  font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+} */
+#letsgo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  align-content: stretch;
+}
